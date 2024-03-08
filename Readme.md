@@ -41,7 +41,7 @@ fornecidos no corpo da requisição GET com JSON.
 
 - Agora é só colocar os parâmetros conforme informado acima e enviar um GET para essa rota, que a API retornará uma senha com a quantidade de caracteres solicitados.
 
-## Estrutura do projeto
+# Estrutura do projeto
 - Essa ferramenta utilizou a estrutura de pastas padrão de API Rest com Node.js; 
 
 - No escopo principal, temos o arquivo "server.js" que disponibiliza a API na porta 3400 do localhost.
