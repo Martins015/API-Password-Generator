@@ -22,7 +22,7 @@ fornecidos no corpo da requisição GET com JSON.
 - Abra o projeto no cmd e execute a função "npm run dev". Após isso, irá aparecer uma mensagem "API disponível em: localhost:3400. 
 - Coloque a url localhost3400 na ferramento de envio (insomnia) e envie uma requisição GET para testar. Caso esteja tudo certo aparecerá a mensagem "API Rodando, por favor, coloque a rota "/gerar" para testar a aplicação.".
 
-# Gerando a senha 
+## Gerando a senha 
 - Coloque a rota /gerar na URL e em seguida, configure o body da requisição com as instruções abaixo.
 - A requisição utiliza parâmetros passados em JSON e segue o seguinte formato de exemplo: 
 
