@@ -15,9 +15,9 @@ fornecidos no corpo da requisição GET com JSON.
     - npm;
     - Dependências Node: Para baixar as dependencias node, basta entrar na pasta do projeto com o cmd e executar o comando "npm install".
 
-## Uso
+# Uso
 
-# Preparando a aplicação
+## Preparando a aplicação
 - Para utilizar a ferramenta, é necessário utilizar alguma ferramenta de envio de requisição para API, como o Insomnia ou o Postman. 
 - Abra o projeto no cmd e execute a função "npm run dev". Após isso, irá aparecer uma mensagem "API disponível em: localhost:3400. 
 - Coloque a url localhost3400 na ferramento de envio (insomnia) e envie uma requisição GET para testar. Caso esteja tudo certo aparecerá a mensagem "API Rodando, por favor, coloque a rota "/gerar" para testar a aplicação.".
